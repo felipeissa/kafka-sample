@@ -1,0 +1,6 @@
+URLS:
+
+kafdrop (view messages): http://localhost:19000/
+produce: POST to http://localhost:8081/message
+
+https://www.youtube.com/watch?v=Su49NMD9UiA
